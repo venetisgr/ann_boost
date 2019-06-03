@@ -33,3 +33,6 @@ If you use this code or the article the then please cite:
 ...
 ```
 
+## Future Updates
+
+Further support for the RNN architecture will be added
