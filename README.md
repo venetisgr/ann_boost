@@ -21,6 +21,11 @@ One of the most promising applications of Artificial Neural Networks (ANN) is pa
 The datasets used in this paper are wine, iris, MNIST, Cifar32 and Fashion MNIST.The later can demonstrate the effectiveness of the proposed approach.
 
 
+### Models
+
+Implementations of the proposed boosting algorithm along with these models can be found at the corresponding folders
+
+
 ## Citation
 If you use this code or the article the then please cite:
 
