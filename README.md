@@ -19,6 +19,14 @@ One of the most promising applications of Artificial Neural Networks (ANN) is pa
 
 
 
+### Datasets 
 
+The datasets used in this paper are wine, iris, MNIST, Cifar32 and Fashion MNIST.The later can demonstrate the effectiveness of the proposed approach.
 
-The datasets used in this paper are wine, iris, MNIST, Cifar32 and Fashion MNIST classification problems, which can demonstrate the effectiveness of the proposed approach.
+## Citation
+If you use this code or the article the then please cite:
+
+```bibtex
+...
+```
+
